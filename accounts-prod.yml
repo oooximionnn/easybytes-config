@@ -1,3 +1,7 @@
 build:
   version: "{cipher}4b20cb890365e4d98a62c7b264d56eee05e2460d51d40d333b50e58777702ee3"
-  name: "Anton + Nastya == Love"
+  name: "if (Anton + Nastya == Love) {
+            nastya.getPregnant();
+         } else {
+            divorce();
+         }"
